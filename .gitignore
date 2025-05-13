@@ -178,3 +178,6 @@ sample.*
 
 # Documents
 *.pdf
+
+# MacOS system file
+.DS_Store
